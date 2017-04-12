@@ -1,0 +1,27 @@
+{
+  "name": "thefucktelegram",
+  "version": "1.0.0",
+  "description": "Telegram Bot inspired by TheFuck that corrects messages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"\u00AF\\_(\u30C4)_\/\u00AF\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANyanCatFan/TheFuckTelegram.git"
+  },
+  "keywords": [
+    "telegram",
+    "thefuck"
+  ],
+  "author": "Matías con tilde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ANyanCatFan/TheFuckTelegram/issues"
+  },
+  "homepage": "https://github.com/ANyanCatFan/TheFuckTelegram#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.0"
+  }
+}

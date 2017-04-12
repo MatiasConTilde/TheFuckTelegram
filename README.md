@@ -1,2 +1,2 @@
 # TheFuckTelegram
-Telegram Bot inspired by TheFuck that corrects messages
+Telegram Bot inspired by [TheFuck](https://github.com/nvbn/thefuck) that corrects messages
