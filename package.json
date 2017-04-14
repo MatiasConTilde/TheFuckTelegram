@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/ANyanCatFan/TheFuckTelegram#readme",
   "dependencies": {
-    "node-telegram-bot-api": "^0.27.0"
+    "telebot": "^1.0.7"
   }
 }
