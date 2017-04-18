@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/ANyanCatFan/TheFuckTelegram#readme",
   "dependencies": {
-    "telebot": "^1.0.7"
+    "telebot": "^1.0.7",
+    "typo-js": "^1.0.3"
   }
 }
