@@ -12,7 +12,7 @@ bot.on("text", msg => {
     messages[msg.chat.id][msg.from.id] = msg.text.split(" ");
     const msgArray = messages[msg.chat.id][msg.from.id];
     for (var i in msgArray) {
-      const suggestion = dictionary.suggest(msgArray[i])[0] || msgArray[i]
+      const suggestion = dictionary.suggest(msgArray[i])[0] || msgArray[i];
       messages[msg.chat.id][msg.from.id][i] = suggestion;
     }
   }
